@@ -1,8 +1,0 @@
-{
-  "provider": "gemma",
-  "gemma_model_id": "google/gemma-3-4b-it",
-  "openai_api_key": "",
-  "openai_model": "gpt-4o-mini",
-  "google_client_secrets_path": "",
-  "ics_url": ""
-}

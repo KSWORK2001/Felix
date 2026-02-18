@@ -1,0 +1,225 @@
+{
+  "next_id": 21,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Work on Ezra's website.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 2,
+      "title": "Attend tomorrow's probation class.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T07:37:36.253552",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 3,
+      "title": "Catch up with Kessler.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 4,
+      "title": "Work on the Pluli project.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Work SOCO",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 5,
+      "title": "Work on your portfolio.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 6,
+      "title": "Ensure Conference Hub can host the Cosmos DB dataset again.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Work AT&T",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 7,
+      "title": "Complete Georgia Tech assignments before Sunday.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Georgia Tech",
+      "completed": true,
+      "completed_at": "2026-02-17T16:20:01.313774",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 8,
+      "title": "Complete AT&T work before Monday.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Work AT&T",
+      "completed": true,
+      "completed_at": "2026-02-17T16:19:58.941537",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 9,
+      "title": "Complete Southern Company work before Monday.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Work SOCO",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 10,
+      "title": "Order items for your room.",
+      "notes": null,
+      "due_date": null,
+      "importance": "low",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-18T03:57:51.792516",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 11,
+      "title": "Get a windshield repair kit from Advance Auto Parts.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T07:37:52.301633",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 12,
+      "title": "Retrieve $800 from your mom and add it to your housing budget.",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T07:38:18.166016",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 13,
+      "title": "Once your housing budget hits $30,000, call Anupma Auntie to plan a house purchase.",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T20:54:42.995999",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 14,
+      "title": "Deposit the fidelity check",
+      "notes": null,
+      "due_date": null,
+      "importance": "high",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T17:43:37.378876",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 15,
+      "title": "Schedule meeting with Nexcen Interns",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Work AT&T",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 16,
+      "title": "Email Recruiters",
+      "notes": null,
+      "due_date": null,
+      "importance": "medium",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T20:54:32.874056",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 17,
+      "title": "One more...",
+      "notes": null,
+      "due_date": null,
+      "importance": "low",
+      "label": "Pookie",
+      "completed": true,
+      "completed_at": "2026-02-17T17:40:55.412261",
+      "created_at": "2026-02-17T00:08:00"
+    },
+    {
+      "id": 18,
+      "title": "Meeting with OHARE",
+      "notes": "Zoom Meeting",
+      "due_date": "2026-02-17",
+      "importance": "high",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-17T20:54:27.554716",
+      "created_at": "2026-02-17T16:49:04.291661"
+    },
+    {
+      "id": 19,
+      "title": "Respond to Recruiters",
+      "notes": "LinkedIn and Email",
+      "due_date": "2026-02-17",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-18T03:22:29.588377",
+      "created_at": "2026-02-17T16:49:25.417661"
+    },
+    {
+      "id": 20,
+      "title": "Themostat and Shelves",
+      "notes": null,
+      "due_date": "2026-02-17",
+      "importance": "high",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-17T16:52:56.312377"
+    }
+  ]
+}
