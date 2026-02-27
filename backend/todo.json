@@ -1,5 +1,5 @@
 {
-  "next_id": 21,
+  "next_id": 24,
   "tasks": [
     {
       "id": 1,
@@ -96,8 +96,8 @@
       "due_date": null,
       "importance": "high",
       "label": "Work SOCO",
-      "completed": false,
-      "completed_at": null,
+      "completed": true,
+      "completed_at": "2026-02-23T17:27:41.861110",
       "created_at": "2026-02-17T00:08:00"
     },
     {
@@ -162,8 +162,8 @@
       "due_date": null,
       "importance": "medium",
       "label": "Work AT&T",
-      "completed": false,
-      "completed_at": null,
+      "completed": true,
+      "completed_at": "2026-02-23T17:27:40.883308",
       "created_at": "2026-02-17T00:08:00"
     },
     {
@@ -220,6 +220,39 @@
       "completed": false,
       "completed_at": null,
       "created_at": "2026-02-17T16:52:56.312377"
+    },
+    {
+      "id": 21,
+      "title": "AT&T Timesheet",
+      "notes": null,
+      "due_date": "2026-02-23",
+      "importance": "high",
+      "label": "Work AT&T",
+      "completed": true,
+      "completed_at": "2026-02-24T14:52:04.524963",
+      "created_at": "2026-02-23T17:27:58.202050"
+    },
+    {
+      "id": 22,
+      "title": "Background Check",
+      "notes": null,
+      "due_date": "2026-02-23",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": true,
+      "completed_at": "2026-02-24T14:52:07.271842",
+      "created_at": "2026-02-23T17:28:04.631062"
+    },
+    {
+      "id": 23,
+      "title": "Demo Datashape",
+      "notes": null,
+      "due_date": "2026-02-23",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-02-23T17:28:19.027367"
     }
   ]
 }
