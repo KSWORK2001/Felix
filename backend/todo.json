@@ -1,5 +1,5 @@
 {
-  "next_id": 24,
+  "next_id": 31,
   "tasks": [
     {
       "id": 1,
@@ -30,8 +30,8 @@
       "due_date": null,
       "importance": "medium",
       "label": "Personal",
-      "completed": false,
-      "completed_at": null,
+      "completed": true,
+      "completed_at": "2026-03-02T04:42:05.810028",
       "created_at": "2026-02-17T00:08:00"
     },
     {
@@ -41,8 +41,8 @@
       "due_date": null,
       "importance": "medium",
       "label": "Work SOCO",
-      "completed": false,
-      "completed_at": null,
+      "completed": true,
+      "completed_at": "2026-03-02T04:36:50.674901",
       "created_at": "2026-02-17T00:08:00"
     },
     {
@@ -52,8 +52,8 @@
       "due_date": null,
       "importance": "medium",
       "label": "Personal",
-      "completed": false,
-      "completed_at": null,
+      "completed": true,
+      "completed_at": "2026-03-02T04:36:52.001362",
       "created_at": "2026-02-17T00:08:00"
     },
     {
@@ -253,6 +253,83 @@
       "completed": false,
       "completed_at": null,
       "created_at": "2026-02-23T17:28:19.027367"
+    },
+    {
+      "id": 24,
+      "title": "Host portfolio",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:37:42.381421"
+    },
+    {
+      "id": 25,
+      "title": "Demo Datashape",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:37:45.717558"
+    },
+    {
+      "id": 26,
+      "title": "Setup Acure Stuff",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:37:52.220050"
+    },
+    {
+      "id": 27,
+      "title": "Car Wash",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:37:55.067819"
+    },
+    {
+      "id": 28,
+      "title": "Talk with Family",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:38:16.780751"
+    },
+    {
+      "id": 29,
+      "title": "Drug Screen",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:39:07.018241"
+    },
+    {
+      "id": 30,
+      "title": "Anandhi Demo",
+      "notes": null,
+      "due_date": "2026-03-01",
+      "importance": "medium",
+      "label": "Personal",
+      "completed": false,
+      "completed_at": null,
+      "created_at": "2026-03-02T04:39:12.658900"
     }
   ]
 }
